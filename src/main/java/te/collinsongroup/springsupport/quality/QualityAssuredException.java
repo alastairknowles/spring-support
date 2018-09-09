@@ -1,4 +1,4 @@
-package te.collinsongroup.springsupport.qa;
+package te.collinsongroup.springsupport.quality;
 
 import lombok.Getter;
 import org.springframework.web.bind.annotation.RequestMethod;

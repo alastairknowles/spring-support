@@ -4,7 +4,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.EnableAspectJAutoProxy;
 import org.springframework.core.env.Environment;
 import te.collinsongroup.springsupport.exception.BaseExceptionHandler;
-import te.collinsongroup.springsupport.qa.QualityAssuredProcessor;
+import te.collinsongroup.springsupport.quality.QualityAssuredProcessor;
 
 /**
  * Provides the base configuration for spring boot services.

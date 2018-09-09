@@ -1,4 +1,4 @@
-package te.collinsongroup.springsupport.qa;
+package te.collinsongroup.springsupport.quality;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.Target;

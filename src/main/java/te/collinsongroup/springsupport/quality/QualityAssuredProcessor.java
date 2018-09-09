@@ -1,4 +1,4 @@
-package te.collinsongroup.springsupport.qa;
+package te.collinsongroup.springsupport.quality;
 
 import com.google.common.base.Joiner;
 import org.aspectj.lang.JoinPoint;

@@ -2,7 +2,7 @@ package te.collinsongroup.springsupport;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
-import te.collinsongroup.springsupport.qa.QualityAssured;
+import te.collinsongroup.springsupport.quality.QualityAssured;
 
 import java.util.Map;
 
